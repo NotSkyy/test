@@ -1,0 +1,5 @@
+local premium = true
+
+if premium == true then
+     rconsoleprint(”ok, user is premium”)
+end
